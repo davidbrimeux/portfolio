@@ -1,48 +1,3 @@
-👋 Hi, I’m @davidbrimeux
-
-👀 I’m interested in:   
-    
-      Data Development
-      Artificial Intelligence
-      Machine Learning
-      Big Data
-      Cloud Computing
-
-🌱 My Data Science Developer training in 2024/2025 equipped me with the following skills:
-
-      Implement ETL pipelines using Talend, feeding data into PostgreSQL databases on Amazon AWS.
-      Develop and deploy containerized Flask web applications with Docker on Microsoft Azure.
-      Process and visualize data using Python libraries such as NumPy, Pandas, SciPy, and Matplotlib.
-      Implement supervised and unsupervised machine learning models with Scikit-learn.
-      Leverage the Orange tool to orchestrate machine learning workflows.
-      Orchestrate the machine learning model lifecycle using MLflow.
-      Develop and manage Big Data applications with Apache Spark and Scala.
-      Manage source code effectively using Git.
-      Build and train convolutional neural networks (CNNs) with TensorFlow Keras, and develop generative adversarial networks (GANs) (GANs).
-      Manage data projects using agile methodologies, including problem definition, requirements specification, planning, and performance monitoring with key performance indicators (KPIs).
-      
-💞️ I would like to work in the automotive, healthcare, environmental, or sports sectors and am looking to collaborate on:
-
-      Data Science Projects
-      AI Development
-      Machine Learning Models
-      Big Data Applications
-      
-📫 How to reach me:
-
-      Email: davidbrimeux@proton.me
-      LinkedIn: https://linkedin.com/in/david-brimeux-85280a331/
-      GitHub: github.com/davidbrimeux
-
-😄 Pronouns:  He/Him
-
-⚡ Fun fact:
-
-      I am passionate about both data science and artificial intelligence, and I am always eager to learn new technologies and methodologies.
-      I thrive in agile environments like Scrum and plan to pursue Scrum Master certification as a long-term career goal.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
 👋 Bonjour, je suis @davidbrimeux
 
 👀 Je suis intéressé par:
@@ -88,6 +43,51 @@
       Je suis passionné par la data science et l'intelligence artificielle, et je suis toujours avide d'apprendre de nouvelles technologies et méthodologies.
       J'aime travailler en méthodes agiles comme Scrum.
       J'ambitionne quand le temps sera venu de devenir scrum master
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👋 Hi, I’m @davidbrimeux
+
+👀 I’m interested in:   
+    
+      Data Development
+      Artificial Intelligence
+      Machine Learning
+      Big Data
+      Cloud Computing
+
+🌱 My Data Science Developer training in 2024/2025 equipped me with the following skills:
+
+      Implement ETL pipelines using Talend, feeding data into PostgreSQL databases on Amazon AWS.
+      Develop and deploy containerized Flask web applications with Docker on Microsoft Azure.
+      Process and visualize data using Python libraries such as NumPy, Pandas, SciPy, and Matplotlib.
+      Implement supervised and unsupervised machine learning models with Scikit-learn.
+      Leverage the Orange tool to orchestrate machine learning workflows.
+      Orchestrate the machine learning model lifecycle using MLflow.
+      Develop and manage Big Data applications with Apache Spark and Scala.
+      Manage source code effectively using Git.
+      Build and train convolutional neural networks (CNNs) with TensorFlow Keras, and develop generative adversarial networks (GANs) (GANs).
+      Manage data projects using agile methodologies, including problem definition, requirements specification, planning, and performance monitoring with key performance indicators (KPIs).
+      
+💞️ I would like to work in the automotive, healthcare, environmental, or sports sectors and am looking to collaborate on:
+
+      Data Science Projects
+      AI Development
+      Machine Learning Models
+      Big Data Applications
+      
+📫 How to reach me:
+
+      Email: davidbrimeux@proton.me
+      LinkedIn: https://linkedin.com/in/david-brimeux-85280a331/
+      GitHub: github.com/davidbrimeux
+
+😄 Pronouns:  He/Him
+
+⚡ Fun fact:
+
+      I am passionate about both data science and artificial intelligence, and I am always eager to learn new technologies and methodologies.
+      I thrive in agile environments like Scrum and plan to pursue Scrum Master certification as a long-term career goal.
 
 <!---
 davidbrimeux/davidbrimeux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
