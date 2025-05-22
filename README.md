@@ -6,7 +6,7 @@
       L'intelligence artificielle
       Le machine learning
       Le Big Data
-      Le cloud computing
+      Le cloud computing 
       
 🌱 Pendant ma formation Concepteur développeur en sciences des données en 2024/2025, j'ai acquis les compétences suivantes :
 
@@ -21,7 +21,7 @@
       Construire et entraîner des réseaux de neurones convolutionnels (CNN) avec TensorFlow Keras, tout en développant des GANs
       Piloter un projet data avec méthodes agiles (problématique, cahier des charges, planification et suivi avec indicateurs de performance)
       
-💞️ J'aimerais travailler dans le domaine de l'automobile, la santé, l'environnement ou le sport pour collaborer sur :
+💞️ J'aimerais collaborer sur :
 
       Des projets de data science 
       Le développement d'IA
@@ -69,7 +69,7 @@
       Build and train convolutional neural networks (CNNs) with TensorFlow Keras, and develop generative adversarial networks (GANs) (GANs).
       Manage data projects using agile methodologies, including problem definition, requirements specification, planning, and performance monitoring with key performance indicators (KPIs).
       
-💞️ I would like to work in the automotive, healthcare, environmental, or sports sectors and am looking to collaborate on:
+💞️ I would like collaborate on:
 
       Data Science Projects
       AI Development
